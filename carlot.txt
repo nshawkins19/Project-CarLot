@@ -1,0 +1,3 @@
+Car: BMW 330i,  Mileage: 46292 miles,  MPG: 26 miles per gallon,  Sold: Yes Cost: $32000,  Selling Price: $35000,  Sold For $40000,  Profit: $8000
+Car: Toyota 4Runner,  Mileage: 34311 miles,  MPG: 30 miles per gallon,  Sold: No Cost: $25000,  Selling Price: $28000,  Sold For $0,  Profit: $0
+Car: Ford Ranger,  Mileage: 85913 miles,  MPG: 26 miles per gallon,  Sold: No Cost: $23000,  Selling Price: $26000,  Sold For $0,  Profit: $0
